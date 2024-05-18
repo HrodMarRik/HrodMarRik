@@ -49,9 +49,7 @@
  <a href="https://x.com/ChanavatRomaric" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Romaric Chanavat" />
  </a>
- <a href="https://www.instagram.com/romaric_chanavat" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Romaric Chanavat" />
- </a> 
+
 
 </p>
 <br />
